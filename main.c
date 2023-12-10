@@ -1,0 +1,5 @@
+main(){
+	greatest();
+	factorial();
+	reverse();
+}
